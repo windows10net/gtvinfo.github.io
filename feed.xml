@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>Gõ tiếng Việt Online - Vntyping</title>
+    <link href="https://gotiengviet.info/feed.xml" rel="self" />
+    <link href="https://gotiengviet.info" />
+    <updated>2021-10-23T11:06:48+07:00</updated>
+    <author>
+        <name>HaNoi</name>
+    </author>
+    <id>https://gotiengviet.info</id>
+
+    <entry>
+        <title>Gõ Tiếng Việt Online</title>
+        <author>
+            <name>HaNoi</name>
+        </author>
+        <link href="https://gotiengviet.info/go-tieng-viet-online.html"/>
+        <id>https://gotiengviet.info/go-tieng-viet-online.html</id>
+
+        <updated>2021-10-23T11:06:48+07:00</updated>
+            <summary>
+                <![CDATA[
+                    Gõ Tiếng Việt Online Gõ Tiếng Việt Online Gõ Tiếng Việt Online Gõ Tiếng Việt Online Gõ Tiếng Việt Online Gõ Tiếng Việt Online Gõ Tiếng Việt Online
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Gõ Tiếng Việt Online</p>
+<p>Gõ Tiếng Việt Online</p>
+<p>Gõ Tiếng Việt Online</p>
+<p>Gõ Tiếng Việt Online</p>
+<p>Gõ Tiếng Việt Online</p>
+<p>Gõ Tiếng Việt Online</p>
+<p>Gõ Tiếng Việt Online</p>
+            ]]>
+        </content>
+    </entry>
+</feed>

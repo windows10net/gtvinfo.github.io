@@ -1,0 +1,27 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Gõ tiếng Việt Online - Vntyping",
+    "description": "",
+    "home_page_url": "https://gotiengviet.info",
+    "feed_url": "https://gotiengviet.info/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "HaNoi"
+    },
+    "items": [
+        {
+            "id": "https://gotiengviet.info/go-tieng-viet-online.html",
+            "url": "https://gotiengviet.info/go-tieng-viet-online.html",
+            "title": "Gõ Tiếng Việt Online",
+            "summary": "Gõ Tiếng Việt Online Gõ Tiếng Việt Online Gõ Tiếng Việt Online Gõ Tiếng Việt Online Gõ Tiếng Việt Online Gõ Tiếng Việt Online Gõ Tiếng Việt Online",
+            "content_html": "<p>Gõ Tiếng Việt Online</p>\n<p>Gõ Tiếng Việt Online</p>\n<p>Gõ Tiếng Việt Online</p>\n<p>Gõ Tiếng Việt Online</p>\n<p>Gõ Tiếng Việt Online</p>\n<p>Gõ Tiếng Việt Online</p>\n<p>Gõ Tiếng Việt Online</p>",
+            "author": {
+                "name": "HaNoi"
+            },
+            "tags": [
+            ],
+            "date_published": "2021-10-23T11:06:48+07:00",
+            "date_modified": "2021-10-23T11:06:48+07:00"
+        }
+    ]
+}

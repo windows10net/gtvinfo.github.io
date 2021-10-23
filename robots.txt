@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://gotiengviet.info/sitemap.xml
